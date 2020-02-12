@@ -1,0 +1,11 @@
+/Users/wisootwongkamchai/projects/workbench/gradebook/src/AsyncTut/obj/Debug/netcoreapp3.1/AsyncTut.csprojAssemblyReference.cache
+/Users/wisootwongkamchai/projects/workbench/gradebook/src/AsyncTut/obj/Debug/netcoreapp3.1/AsyncTut.AssemblyInfoInputs.cache
+/Users/wisootwongkamchai/projects/workbench/gradebook/src/AsyncTut/obj/Debug/netcoreapp3.1/AsyncTut.AssemblyInfo.cs
+/Users/wisootwongkamchai/projects/workbench/gradebook/src/AsyncTut/bin/Debug/netcoreapp3.1/AsyncTut
+/Users/wisootwongkamchai/projects/workbench/gradebook/src/AsyncTut/bin/Debug/netcoreapp3.1/AsyncTut.deps.json
+/Users/wisootwongkamchai/projects/workbench/gradebook/src/AsyncTut/bin/Debug/netcoreapp3.1/AsyncTut.runtimeconfig.json
+/Users/wisootwongkamchai/projects/workbench/gradebook/src/AsyncTut/bin/Debug/netcoreapp3.1/AsyncTut.runtimeconfig.dev.json
+/Users/wisootwongkamchai/projects/workbench/gradebook/src/AsyncTut/bin/Debug/netcoreapp3.1/AsyncTut.dll
+/Users/wisootwongkamchai/projects/workbench/gradebook/src/AsyncTut/bin/Debug/netcoreapp3.1/AsyncTut.pdb
+/Users/wisootwongkamchai/projects/workbench/gradebook/src/AsyncTut/obj/Debug/netcoreapp3.1/AsyncTut.dll
+/Users/wisootwongkamchai/projects/workbench/gradebook/src/AsyncTut/obj/Debug/netcoreapp3.1/AsyncTut.pdb

@@ -1,0 +1,11 @@
+/Users/wisootwongkamchai/projects/workbench/gradebook/src/LinqTut/bin/Debug/netcoreapp3.1/LinqTut
+/Users/wisootwongkamchai/projects/workbench/gradebook/src/LinqTut/bin/Debug/netcoreapp3.1/LinqTut.deps.json
+/Users/wisootwongkamchai/projects/workbench/gradebook/src/LinqTut/bin/Debug/netcoreapp3.1/LinqTut.runtimeconfig.json
+/Users/wisootwongkamchai/projects/workbench/gradebook/src/LinqTut/bin/Debug/netcoreapp3.1/LinqTut.runtimeconfig.dev.json
+/Users/wisootwongkamchai/projects/workbench/gradebook/src/LinqTut/bin/Debug/netcoreapp3.1/LinqTut.dll
+/Users/wisootwongkamchai/projects/workbench/gradebook/src/LinqTut/bin/Debug/netcoreapp3.1/LinqTut.pdb
+/Users/wisootwongkamchai/projects/workbench/gradebook/src/LinqTut/obj/Debug/netcoreapp3.1/LinqTut.csprojAssemblyReference.cache
+/Users/wisootwongkamchai/projects/workbench/gradebook/src/LinqTut/obj/Debug/netcoreapp3.1/LinqTut.AssemblyInfoInputs.cache
+/Users/wisootwongkamchai/projects/workbench/gradebook/src/LinqTut/obj/Debug/netcoreapp3.1/LinqTut.AssemblyInfo.cs
+/Users/wisootwongkamchai/projects/workbench/gradebook/src/LinqTut/obj/Debug/netcoreapp3.1/LinqTut.dll
+/Users/wisootwongkamchai/projects/workbench/gradebook/src/LinqTut/obj/Debug/netcoreapp3.1/LinqTut.pdb

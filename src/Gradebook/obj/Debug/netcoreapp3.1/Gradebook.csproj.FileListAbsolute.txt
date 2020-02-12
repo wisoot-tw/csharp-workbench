@@ -1,0 +1,11 @@
+/Users/wisootwongkamchai/projects/workbench/gradebook/src/Gradebook/bin/Debug/netcoreapp3.1/Gradebook
+/Users/wisootwongkamchai/projects/workbench/gradebook/src/Gradebook/bin/Debug/netcoreapp3.1/Gradebook.deps.json
+/Users/wisootwongkamchai/projects/workbench/gradebook/src/Gradebook/bin/Debug/netcoreapp3.1/Gradebook.runtimeconfig.json
+/Users/wisootwongkamchai/projects/workbench/gradebook/src/Gradebook/bin/Debug/netcoreapp3.1/Gradebook.runtimeconfig.dev.json
+/Users/wisootwongkamchai/projects/workbench/gradebook/src/Gradebook/bin/Debug/netcoreapp3.1/Gradebook.dll
+/Users/wisootwongkamchai/projects/workbench/gradebook/src/Gradebook/bin/Debug/netcoreapp3.1/Gradebook.pdb
+/Users/wisootwongkamchai/projects/workbench/gradebook/src/Gradebook/obj/Debug/netcoreapp3.1/Gradebook.csprojAssemblyReference.cache
+/Users/wisootwongkamchai/projects/workbench/gradebook/src/Gradebook/obj/Debug/netcoreapp3.1/Gradebook.AssemblyInfoInputs.cache
+/Users/wisootwongkamchai/projects/workbench/gradebook/src/Gradebook/obj/Debug/netcoreapp3.1/Gradebook.AssemblyInfo.cs
+/Users/wisootwongkamchai/projects/workbench/gradebook/src/Gradebook/obj/Debug/netcoreapp3.1/Gradebook.dll
+/Users/wisootwongkamchai/projects/workbench/gradebook/src/Gradebook/obj/Debug/netcoreapp3.1/Gradebook.pdb
